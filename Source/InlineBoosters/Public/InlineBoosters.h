@@ -12,4 +12,7 @@ public:
 	/** IModuleInterface implementation */
 	virtual void StartupModule() override;
 	virtual void ShutdownModule() override;
+	virtual bool IsGameModule() const override { return true; }
 };
+
+DECLARE_LOG_CATEGORY_EXTERN(LogInlineBoosters, Verbose, All);

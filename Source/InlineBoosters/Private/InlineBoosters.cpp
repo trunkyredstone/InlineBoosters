@@ -18,3 +18,5 @@ void FInlineBoostersModule::ShutdownModule()
 #undef LOCTEXT_NAMESPACE
 	
 IMPLEMENT_MODULE(FInlineBoostersModule, InlineBoosters)
+
+DEFINE_LOG_CATEGORY(LogInlineBoosters)

@@ -1,10 +1,10 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.1.0",
-	"SemVersion": "0.1.0",
+	"VersionName": "0.1.0-alpha",
+	"SemVersion": "0.1.0-alpha",
 	"FriendlyName": "Hypertube Additions",
-	"Description": "A mod that adds several buildings related to hypertubes",
+	"Description": "In Alpha - A mod that adds several buildings related to hypertubes",
 	"Category": "Modding",
 	"CreatedBy": "trunkyredstone",
 	"CreatedByURL": "https://romanolucchesi.com",
