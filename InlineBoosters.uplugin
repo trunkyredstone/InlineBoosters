@@ -1,16 +1,16 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.1.0-alpha",
-	"SemVersion": "0.1.0-alpha",
+	"VersionName": "0.1.1-alpha",
+	"SemVersion": "0.1.1-alpha",
 	"FriendlyName": "Hypertube Additions",
 	"Description": "In Alpha - A mod that adds several buildings related to hypertubes",
 	"Category": "Modding",
 	"CreatedBy": "trunkyredstone",
-	"CreatedByURL": "https://romanolucchesi.com",
+	"CreatedByURL": "https://trunky.dev",
 	"DocsURL": "https://github.com/trunkyredstone/InlineBoosters",
 	"MarketplaceURL": "",
-	"SupportURL": "https://discord.gg/xkVJ73E",
+	"SupportURL": "https://discord.ficsit.app",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
@@ -25,7 +25,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.5.0",
+			"SemVersion": "^3.7.0",
 			"Enabled": true
 		}
 	]
